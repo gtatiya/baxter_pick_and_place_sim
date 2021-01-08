@@ -5,12 +5,20 @@ The Baxter robot performs Pick and Place behaviors on the block and records seve
 
 <img src="pics/Baxter_pick_and_place.gif" align="middle">
 
+# Installation
+
+`git clone https://github.com/gtatiya/baxter_pick_and_place_sim.git`
+
 ## Requirements
 
 1. Ubuntu 16.04
 2. ROS Kinetic
 3. Gazebo 7.x
 4. Baxter Simulator: https://sdk.rethinkrobotics.com/wiki/Simulator_Installation
+
+## ROS Packages
+
+`sudo apt-get install ros-kinetic-rospy-message-converter`
 
 ## How to run?
 
