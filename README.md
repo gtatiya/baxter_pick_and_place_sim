@@ -27,3 +27,4 @@ The Baxter robot performs Pick and Place behaviors on the block and records seve
 
 Example: <br>
 `rosrun baxter_pick_and_place_sim pick_and_place.py 2`
+
